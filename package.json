@@ -1,0 +1,19 @@
+{
+  "name": "@tmp7/view-state-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "view-state-util.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmpmachine/view-state-util.git"
+  },
+  "author": "tmpmachine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmpmachine/view-state-util/issues"
+  },
+  "homepage": "https://github.com/tmpmachine/view-state-util#readme"
+}
